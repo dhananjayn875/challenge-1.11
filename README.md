@@ -4,7 +4,7 @@ An anonymous confession app for developers to share their bugs, deadline stress,
 
 ## Live URL
 
-TBD - add deployed URL here after deployment.
+https://challenge-1-11.onrender.com/
 
 ## Endpoints
 
@@ -24,8 +24,4 @@ Copy `.env.example` to `.env` and configure:
 
 ## Run with
 
-`npm install && npm start`
-
-## Default Port
-
-`3000` (override with `PORT` in `.env`)
+`npm install && npm
